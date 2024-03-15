@@ -13,3 +13,4 @@
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/refint/Stock.Supplier.Domain.dll
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/Stock.Supplier.Domain.pdb
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/ref/Stock.Supplier.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/Stock.Supplier.Domain.sourcelink.json

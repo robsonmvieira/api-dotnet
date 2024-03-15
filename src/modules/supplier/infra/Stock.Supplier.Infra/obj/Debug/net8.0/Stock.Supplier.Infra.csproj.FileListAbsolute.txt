@@ -17,3 +17,4 @@
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/infra/Stock.Supplier.Infra/obj/Debug/net8.0/Stock.Supplier.Infra.pdb
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/infra/Stock.Supplier.Infra/obj/Debug/net8.0/Stock.Supplier.Infra.genruntimeconfig.cache
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/infra/Stock.Supplier.Infra/obj/Debug/net8.0/ref/Stock.Supplier.Infra.dll
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/infra/Stock.Supplier.Infra/obj/Debug/net8.0/Stock.Supplier.Infra.sourcelink.json

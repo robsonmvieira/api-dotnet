@@ -10,3 +10,4 @@
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/refint/Stock.Core.dll
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/Stock.Core.pdb
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/ref/Stock.Core.dll
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/Stock.Core.sourcelink.json

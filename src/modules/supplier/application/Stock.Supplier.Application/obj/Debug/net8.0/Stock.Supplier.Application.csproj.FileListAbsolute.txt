@@ -114,3 +114,4 @@
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/application/Stock.Supplier.Application/obj/Debug/net8.0/Stock.Supplier.Application.pdb
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/application/Stock.Supplier.Application/obj/Debug/net8.0/Stock.Supplier.Application.genruntimeconfig.cache
 /Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/application/Stock.Supplier.Application/obj/Debug/net8.0/ref/Stock.Supplier.Application.dll
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/application/Stock.Supplier.Application/obj/Debug/net8.0/Stock.Supplier.Application.sourcelink.json

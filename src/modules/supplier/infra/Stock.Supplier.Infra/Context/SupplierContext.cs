@@ -34,6 +34,8 @@ public class SupplierContext
 
             base.OnModelCreating(modelBuilder);
         }
+        
+        
 
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
