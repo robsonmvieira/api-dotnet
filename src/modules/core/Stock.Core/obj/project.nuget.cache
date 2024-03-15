@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mOwu+Wu/0iklLZLD2IXXodyqDThH4GPooaYIEGGTvTgQYQPl1Oo3HjCo5ZUhreGexuRNDKGnR6Gi2QNelCzVhg==",
+  "success": true,
+  "projectFilePath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/Stock.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/robsonmaia/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/robsonmaia/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.0/fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "/Users/robsonmaia/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

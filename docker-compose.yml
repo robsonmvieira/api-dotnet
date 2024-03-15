@@ -1,0 +1,23 @@
+version: '3.9'
+services:
+#  api:
+#    build: .
+#    container_name: 'dotnetCatalogApi'
+#    ports:
+#      - "5000:5000"
+#    volumes:
+#      - .:/code
+#    environment:
+#      FLASK_ENV: development
+  db:
+    platform: linux/x86_64
+    image: "postgres:latest"
+    container_name: 'postgresStockDb'
+    hostname: 'mysqlStockDb'
+    ports:
+      - "5432:5432"
+    environment:
+        POSTGRES_USER: 'postgres'
+        POSTGRES_PASSWORD: 'postgres'
+        POSTGRES_DB: 'microStockDb'
+        

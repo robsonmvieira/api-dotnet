@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/application/Stock.Supplier.Application/Stock.Supplier.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/Stock.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/Stock.Core.csproj",
+        "projectName": "Stock.Core",
+        "projectPath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/Stock.Core.csproj",
+        "packagesPath": "/Users/robsonmaia/.nuget/packages/",
+        "outputPath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robsonmaia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/application/Stock.Supplier.Application/Stock.Supplier.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/application/Stock.Supplier.Application/Stock.Supplier.Application.csproj",
+        "projectName": "Stock.Supplier.Application",
+        "projectPath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/application/Stock.Supplier.Application/Stock.Supplier.Application.csproj",
+        "packagesPath": "/Users/robsonmaia/.nuget/packages/",
+        "outputPath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/application/Stock.Supplier.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robsonmaia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/infra/Stock.Supplier.Infra/Stock.Supplier.Infra.csproj": {
+                "projectPath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/infra/Stock.Supplier.Infra/Stock.Supplier.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/Stock.Supplier.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/Stock.Supplier.Domain.csproj",
+        "projectName": "Stock.Supplier.Domain",
+        "projectPath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/Stock.Supplier.Domain.csproj",
+        "packagesPath": "/Users/robsonmaia/.nuget/packages/",
+        "outputPath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robsonmaia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/Stock.Core.csproj": {
+                "projectPath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/Stock.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/infra/Stock.Supplier.Infra/Stock.Supplier.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/infra/Stock.Supplier.Infra/Stock.Supplier.Infra.csproj",
+        "projectName": "Stock.Supplier.Infra",
+        "projectPath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/infra/Stock.Supplier.Infra/Stock.Supplier.Infra.csproj",
+        "packagesPath": "/Users/robsonmaia/.nuget/packages/",
+        "outputPath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/infra/Stock.Supplier.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robsonmaia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/Stock.Supplier.Domain.csproj": {
+                "projectPath": "/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/Stock.Supplier.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

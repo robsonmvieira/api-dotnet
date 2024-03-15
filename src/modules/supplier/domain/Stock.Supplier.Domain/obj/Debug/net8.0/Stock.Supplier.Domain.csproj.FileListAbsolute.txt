@@ -1,0 +1,15 @@
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/bin/Debug/net8.0/Stock.Supplier.Domain.deps.json
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/bin/Debug/net8.0/Stock.Supplier.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/bin/Debug/net8.0/Stock.Supplier.Domain.pdb
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/bin/Debug/net8.0/Stock.Core.dll
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/bin/Debug/net8.0/Stock.Core.pdb
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/Stock.Supplier.Domain.csproj.AssemblyReference.cache
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/Stock.Supplier.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/Stock.Supplier.Domain.AssemblyInfoInputs.cache
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/Stock.Supplier.Domain.AssemblyInfo.cs
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/Stock.Supplier.Domain.csproj.CoreCompileInputs.cache
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/Stock.Supplier.Domain.csproj.CopyComplete
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/Stock.Supplier.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/refint/Stock.Supplier.Domain.dll
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/Stock.Supplier.Domain.pdb
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/supplier/domain/Stock.Supplier.Domain/obj/Debug/net8.0/ref/Stock.Supplier.Domain.dll

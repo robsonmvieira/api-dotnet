@@ -1,0 +1,12 @@
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/bin/Debug/net8.0/Stock.Core.deps.json
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/bin/Debug/net8.0/Stock.Core.dll
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/bin/Debug/net8.0/Stock.Core.pdb
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/Stock.Core.csproj.AssemblyReference.cache
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/Stock.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/Stock.Core.AssemblyInfoInputs.cache
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/Stock.Core.AssemblyInfo.cs
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/Stock.Core.csproj.CoreCompileInputs.cache
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/Stock.Core.dll
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/refint/Stock.Core.dll
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/Stock.Core.pdb
+/Users/robsonmaia/Learning/learning-dotnet/StockApi/src/modules/core/Stock.Core/obj/Debug/net8.0/ref/Stock.Core.dll
